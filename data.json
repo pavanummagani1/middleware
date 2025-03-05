@@ -1,0 +1,44 @@
+[
+    {
+        "userName": "PavanKalyan",
+        "mobileNumber": "8500402873",
+        "email": "pavankalyanummagani@gmail.com",
+        "password": "Pk@us$123"
+    },
+    {
+        "userName": "Ram",
+        "mobileNumber": "4470003426",
+        "email": "ram@gmail.com",
+        "password": "Ram@us$123"
+    },
+    {
+        "userName": "PranathiReddy",
+        "mobileNumber": "8977144873",
+        "email": "pavanummagani1@gmail.com",
+        "password": "Pk@us$1234"
+    },
+    {
+        "userName": "Bhavitha",
+        "mobileNumber": "1628387892",
+        "email": "Bhavitha@gmail.com",
+        "password": "B@us$123"
+    },
+    {
+        "userName": "10000Coders",
+        "mobileNumber": "1000000000",
+        "email": "10000coders@gmail.com",
+        "password": "Pk@us$123"
+    },
+    {
+        "userName": "BWOB",
+        "mobileNumber": "3742946290",
+        "email": "bwob@gmail.com",
+        "password": "Pk@us$123"
+    },
+    {
+        "userName": "Abhishek",
+        "mobileNumber": "4940302221",
+        "email": "Abhishek@gmail.com",
+        "password": "Pk@us$123"
+    }
+]
